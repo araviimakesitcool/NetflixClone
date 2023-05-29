@@ -1,2 +1,2 @@
 # NetflixClone
-The project is the replica of netflix developed from HTML and CSS
+The project is a replica of Netflix developed from HTML and CSS
